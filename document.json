@@ -4,20 +4,10 @@
   "logo": "_images/dataset.png",
   "has_supporting_content": false,
   "de_catalog_id": "noaa-ndfd-dataset",
-  "type": "dataset-s3",
   "categories": [
     "Environment"
   ],
-  "platform": "Kubernetes",
   "cover": "cover.md",
-  "commands": [],
-  "display": [
-    {
-      "name": "Developer Dashboard",
-      "url": "##DNS.host##/codeserver",
-      "enabled": true
-    }
-  ],
   "buckets": [
     "noaa-ndfd-pds"
   ],
@@ -29,9 +19,11 @@
       "Dataset"
     ],
     "Tag": [ "S3" ],
-    "categories": [
+    "Categories": [
       "Environment"
+    ],
+    "Catalog Id": [
+      "noaa-ndfd-dataset"
     ]
-  },
-  "isDocumentSaved": true
+  }
 }

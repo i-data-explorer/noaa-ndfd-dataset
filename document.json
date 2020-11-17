@@ -3,7 +3,7 @@
   "description": "The National Digital Forecast Database (NDFD) is a suite of gridded forecasts of sensible weather elements (e.g., cloud cover, maximum temperature). Forecasts prepared by NWS field offices working in collaboration with the National Centers for Environmental Prediction (NCEP) are combined in the NDFD to create a seamless mosaic of digital forecasts from which operational NWS products are generated.",
   "logo": "_images/dataset.png",
   "has_supporting_content": false,
-  "stack_id": "noaa-ndfd-dataset",
+  "de_catalog_id": "noaa-ndfd-dataset",
   "type": "dataset-s3",
   "categories": [
     "Environment"

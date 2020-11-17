@@ -26,8 +26,7 @@
       "2 minutes"
     ],
     "Type": [
-      "Dataset",
-      "S3"
+      "Dataset"
     ],
     "Tag": [ "S3" ],
     "categories": [

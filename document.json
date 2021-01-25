@@ -20,8 +20,9 @@
     ],
     "Tag": [ "S3" ],
     "Categories": [
-      "Environment"
-    ],
+      "Environment",
+      "Geo Data"
+  ],
     "Catalog Id": [
       "noaa-ndfd-dataset"
     ]

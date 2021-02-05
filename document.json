@@ -12,7 +12,7 @@
     "noaa-ndfd-pds"
   ],
   "meta": {
-    "Install time": [
+    "Install Time": [
       "2 minutes"
     ],
     "Type": [
@@ -23,6 +23,15 @@
       "Environment",
       "Geo Data"
   ],
+    "Update Frequency": [
+      "Monthly"
+     ],
+    "Last Updated": [
+      "01/01/2021"
+    ],
+    "License": [
+      "N/A"
+    ],
     "Catalog Id": [
       "noaa-ndfd-dataset"
     ]
